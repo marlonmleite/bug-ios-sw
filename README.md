@@ -40,7 +40,7 @@ If is PWA app, close and open the PWA app
 
 8) After install the new service worker, a dialog confirmation is open for user accept the upgrade new app version
 
-9) After 1 seconds the confirm dialog, the app is reload
+9) After the confirm dialog, the app is reload with new version
 
 
 *In iOS steps 6 and 7 do not happen*

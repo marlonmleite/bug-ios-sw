@@ -15,10 +15,6 @@ serviceWorker.register({
 
     if (update) {
       worker.postMessage({ type: 'SKIP_WAITING' });
-      
-      setTimeout(() => {
-        window.location.reload();
-      }, 1000);
     }
   }
 });
